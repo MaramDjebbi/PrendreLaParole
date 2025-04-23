@@ -1,0 +1,13 @@
+Input:/home/maram/Downloads/PrendreLaParole/newFPS/resident1/disgust/1-disgust.mp4
+Input full path:/home/maram/Downloads/PrendreLaParole/newFPS/resident1/disgust/1-disgust.mp4
+Camera parameters:875,875,640,360
+Output HOG:1-disgust.hog
+Output video:1-disgust.avi
+Output aligned directory:1-disgust_aligned
+Output csv:1-disgust.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
