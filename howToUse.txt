@@ -1,0 +1,34 @@
+########OpenFace########
+
+
+
+###for videos:
+
+./bin/FaceLandmarkVid -f "../samples/changeLighting.wmv" -f "../samples/2015-10-15-15-14.avi"
+
+###for images:
+
+./bin/FaceLandmarkImg -fdir "../samples/" -wild
+
+###for multiple faces in videos:
+
+./bin/FaceLandmarkVidMulti -f ../samples/multi_face.avi
+
+###for feature extraction (facial landmarks, head pose, AUs, gaze and HOG and similarity aligned faces):
+
+./bin/FeatureExtraction -verbose -f "../samples/default.wmv"
+
+
+########OpenPose########
+
+this example runs OpenPose on your webcam and displays the body keypoints:
+
+
+./build/examples/openpose/openpose.bin
+
+##You can also add any of the available flags in any order. E.g., the following example runs on a video (--video {PATH}), enables face (--face) and hands (--hand), and saves the output keypoints on JSON files on disk (--write_json {PATH}).
+
+# Ubuntu
+./build/examples/openpose/openpose.bin --video examples/media/video.avi --face --hand --write_json output_json_folder/
+
+
