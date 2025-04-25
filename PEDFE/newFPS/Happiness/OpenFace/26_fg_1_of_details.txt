@@ -1,0 +1,13 @@
+Input:/home/maram/Downloads/PrendreLaParole/PEDFE/newFPS/Happiness/26_fg_1.mp4
+Input full path:/home/maram/Downloads/PrendreLaParole/PEDFE/newFPS/Happiness/26_fg_1.mp4
+Camera parameters:875,875,640,360
+Output HOG:26_fg_1.hog
+Output video:26_fg_1.avi
+Output aligned directory:26_fg_1_aligned
+Output csv:26_fg_1.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

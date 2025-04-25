@@ -1,0 +1,13 @@
+Input:/home/maram/Downloads/PrendreLaParole/PEDFE/newFPS/Surprise/54_sg_5.mp4
+Input full path:/home/maram/Downloads/PrendreLaParole/PEDFE/newFPS/Surprise/54_sg_5.mp4
+Camera parameters:583.594,583.594,427,240
+Output HOG:54_sg_5.hog
+Output video:54_sg_5.avi
+Output aligned directory:54_sg_5_aligned
+Output csv:54_sg_5.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

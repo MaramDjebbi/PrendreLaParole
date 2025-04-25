@@ -1,0 +1,13 @@
+Input:/home/maram/Downloads/PrendreLaParole/PEDFE/newFPS/Anger/55_rg_3.mp4
+Input full path:/home/maram/Downloads/PrendreLaParole/PEDFE/newFPS/Anger/55_rg_3.mp4
+Camera parameters:307.031,307.031,157,177
+Output HOG:55_rg_3.hog
+Output video:55_rg_3.avi
+Output aligned directory:55_rg_3_aligned
+Output csv:55_rg_3.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

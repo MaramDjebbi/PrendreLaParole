@@ -1,0 +1,13 @@
+Input:/home/maram/Downloads/PrendreLaParole/PEDFE/newFPS/Anger/33_rg_2.mp4
+Input full path:/home/maram/Downloads/PrendreLaParole/PEDFE/newFPS/Anger/33_rg_2.mp4
+Camera parameters:583.594,583.594,427,240
+Output HOG:33_rg_2.hog
+Output video:33_rg_2.avi
+Output aligned directory:33_rg_2_aligned
+Output csv:33_rg_2.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

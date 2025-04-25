@@ -1,0 +1,13 @@
+Input:/home/maram/Downloads/PrendreLaParole/PEDFE/newFPS/Sadness/30_tg_2.mp4
+Input full path:/home/maram/Downloads/PrendreLaParole/PEDFE/newFPS/Sadness/30_tg_2.mp4
+Camera parameters:875,875,640,360
+Output HOG:30_tg_2.hog
+Output video:30_tg_2.avi
+Output aligned directory:30_tg_2_aligned
+Output csv:30_tg_2.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

@@ -1,16 +1,19 @@
 import os
 import subprocess
 
-base_path = "/home/maram/Downloads/Videos_résidents/Cropped"
-residents = ["resident1", "resident2", "resident3"]
-output_base = "/home/maram/Downloads/Videos_résidents/newnewFPS"
+# base_path = "/home/maram/Downloads/PrendreLaParole/Cropped"
+base_path = "/home/maram/Downloads/PrendreLaParole/PEDFE/Backup"
+# residents = ["resident1", "resident2", "resident3"]
+emotions = ["Fear","Sadness","Surprise","Anger","Happiness","Disgust"]
+# output_base = "/home/maram/Downloads/PrendreLaParole/newFPS"
+output_base = "/home/maram/Downloads/PrendreLaParole/PEDFE/newFPS"
 target_fps = 25
 
 os.makedirs(output_base, exist_ok=True)
 
-for resident in residents:
-    input_folder = os.path.join(base_path, resident)
-    output_folder = os.path.join(output_base, resident)
+for emotion in emotions:
+    input_folder = os.path.join(base_path, emotion)
+    output_folder = os.path.join(output_base, emotion)
     os.makedirs(output_folder, exist_ok=True)
 
     for filename in os.listdir(input_folder):
