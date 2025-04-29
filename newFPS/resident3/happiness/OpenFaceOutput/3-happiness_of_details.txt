@@ -1,0 +1,13 @@
+Input:/home/maram/Downloads/PrendreLaParole/newFPS/resident3/happiness/3-happiness.mp4
+Input full path:/home/maram/Downloads/PrendreLaParole/newFPS/resident3/happiness/3-happiness.mp4
+Camera parameters:875,875,640,360
+Output HOG:3-happiness.hog
+Output video:3-happiness.avi
+Output aligned directory:3-happiness_aligned
+Output csv:3-happiness.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

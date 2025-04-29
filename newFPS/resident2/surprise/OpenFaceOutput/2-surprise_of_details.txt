@@ -1,0 +1,13 @@
+Input:/home/maram/Downloads/PrendreLaParole/newFPS/resident2/surprise/2-surprise.mp4
+Input full path:/home/maram/Downloads/PrendreLaParole/newFPS/resident2/surprise/2-surprise.mp4
+Camera parameters:875,875,640,360
+Output HOG:2-surprise.hog
+Output video:2-surprise.avi
+Output aligned directory:2-surprise_aligned
+Output csv:2-surprise.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
